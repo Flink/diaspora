@@ -64,3 +64,4 @@ dump.rdb
 
 #Rubinius's JIT
 *.rbc
+tags
